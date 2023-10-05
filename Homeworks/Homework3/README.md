@@ -1,5 +1,5 @@
-For this homework i worked mainly with Sarah and Miles however because i ran into many issues so i discussed the stuff with Tali, Zach, Shar and Paula as well.
-This homework is about performing a ks test and reproducing the results from Corral's paper 2018, which doesn't reject the null hypothesis, that all consecutive earthquakes' time gaps samples come from the same parent distribution. This test is related to the statistical analysis that we covered in class and ks test is one these. the main signifcant part is tunderstanding the p values, which play a major role in rejecting the null hypothesis if this value is less than a fixed \{alpha} value.
-The hardest part for me was originally to understand the paper and how to start the codeand  the data formatting and then when i did the ks test so it didn't go well.
-The easy part was to plot the CDFs and import data from github or google drive ( i tried both)
-The new thing i learned was to deal with the dataframes and perform ks test which is quite fun but again the results are not pleasing enough.
+* For this homework i worked mainly with Sarah and Miles however because i ran into many issues so i discussed the stuff with Tali, Zach, Shar and Paula as well.
+* This homework is about performing a ks test and reproducing the results from Corral's paper 2018, which doesn't reject the null hypothesis, that all consecutive earthquakes' time gaps samples come from the same parent distribution. This test is related to the statistical analysis that we covered in class and ks test is one these. the main signifcant part is tunderstanding the p values, which play a major role in rejecting the null hypothesis if this value is less than a fixed \{alpha} value.
+* The hardest part for me was originally to understand the paper and how to start the codeand  the data formatting and then when i did the ks test so it didn't go well.
+* The easy part was to plot the CDFs and import data from github or google drive ( i tried both)
+* The new thing i learned was to deal with the dataframes and perform ks test which is quite fun but again the results are not pleasing enough.
