@@ -1,1 +1,5 @@
-
+The homework included fitting models to the data and using loss functions to see the best fit. Optimization  basicallly minimizesthe loss functions by slightly nudging the weights/ paramters to see how data can be best fitted for a given model. The data for this homework included GRB afterglow magnitude, time, filters and magnitude error. 
+ For this homework in class I discussed the work with Sarah, at home assignment we again discussed about the scores but we couldn't understand the code given in slack so we used R square test to get scores for the best fit line. 
+ The assignment seemed pretty simple now have I done it but it confused me a lot in the plotting section especially training and testing with error bars. 
+The easiest part ( and again it's a good excercise) to go through data wrangling, it's helpful and I have really learned it quite well. Plotting was a big task so I did take Fed's code. 
+I learned about the plotting and hoe sklearn helps to reduce our work on manually fitting the curves and doing it with just fewer lines of code and inbuilt functions.
