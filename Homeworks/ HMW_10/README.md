@@ -4,6 +4,6 @@ The homework was about Physics Informed Neural Networks, as NNs cannot understan
 
 The difficult part for me was to understand the problem and think about how neural network will work tho it was super simplified with the help in the ocde given already.
 
-The easy part for me was to run the model and look at the loss funvtions to see how well or bad it's performing. 
+The easy part for me was to run the model and look at the loss functions to see how well or bad it's performing. 
 
 The new thing I learned is about Burger's equation, and how neural network can work with physics problems.
